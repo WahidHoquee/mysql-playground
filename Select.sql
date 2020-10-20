@@ -1,0 +1,2 @@
+-- SELECT * FROM sql_store.customers WHERE state IN ('MA', 'CO');customerscustomerscustomers
+-- SELECT DISTINCT state, points+10 as updatedPoints FROM sql_store.customersorders
